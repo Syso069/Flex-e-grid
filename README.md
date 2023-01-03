@@ -3,4 +3,4 @@
 <br>
 <p>LINK PARA VER O SITE</p>
 <br>
-<a href="https://syso069.github.io/HTML-CSS3-Flex-e-grid/flex-e-grid/flex-e-grid-main/">HZC</a>
+<a href="https://syso069.github.io/Flex-e-grid/flex-e-grid/flex-e-grid-main/">HZC</a>
