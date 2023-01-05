@@ -1,5 +1,5 @@
 # HTML-CSS3-Flex-e-grid
-<h1>Site de uma loja de skate</h1> 
+<h1>HZC é um site para quem anda de skates, nele temos venda de roupas, locais com os melhores picos para andar de skate e músicas também.</h1> 
 <br>
 <p>LINK PARA VER O SITE</p>
 <br>
