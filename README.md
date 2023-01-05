@@ -6,9 +6,9 @@
 
 # Sobre o projeto
 
-> Alura Books é uma aplicação Front-end (responsivo) construída a partir de uma aula que tive sobre Mobile First.
+>  HZC é uma aplicação Front-end (responsivo) construída a partir de uma aula que tive sobre Flex e Grid.
 
-> A aplicação consiste em um site de compra e leituar de livros.
+> HZC é um site para quem anda de skates, nele temos venda  de roupas, locais com os melhores picos para andar de skate e músicas também.
 
 # Status do projeto
 
@@ -28,7 +28,7 @@
 
 # Tecnologias utilizadas
 
-- HTML / CSS 
+- HTML / CSS / JS
 
 # Visualizar o projeto
 https://syso069.github.io/Flex-e-grid/flex-e-grid/flex-e-grid-main/
