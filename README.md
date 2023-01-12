@@ -12,7 +12,7 @@
 
 # Status do projeto
 
-> Concluído 
+> Concluído ✔️
 
 ## Layout Mobile
 <div style="display: inline_block"><br>
@@ -22,8 +22,8 @@
 
 ## Layout Desktop
 <div style="display: inline_block"><br>
-<img height="600" alt="Imagem mobile alura books" src="https://user-images.githubusercontent.com/94554205/210819334-42b6add2-d23c-4522-8c20-a701543c9fad.png">
-<img height="600" alt="Imagem mobile alura books" src="https://user-images.githubusercontent.com/94554205/210819500-1f2de167-f186-404b-bc2a-460ce8cf299c.png">
+<img height="600" alt="Imagem desktop alura books" src="https://user-images.githubusercontent.com/94554205/210819334-42b6add2-d23c-4522-8c20-a701543c9fad.png">
+<img height="600" alt="Imagem desktop alura books" src="https://user-images.githubusercontent.com/94554205/210819500-1f2de167-f186-404b-bc2a-460ce8cf299c.png">
 </div>
 
 # Tecnologias utilizadas
